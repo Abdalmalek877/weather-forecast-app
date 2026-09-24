@@ -1,0 +1,15 @@
+# --- the web app ---
+streamlit>=1.50
+plotly>=5.20
+
+# --- data + models (used by both the app and the notebook) ---
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+scipy>=1.11
+joblib>=1.3
+
+# --- the notebook only ---
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
